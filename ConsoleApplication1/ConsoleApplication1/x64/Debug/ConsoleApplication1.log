@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+  D3DApp.cpp
+  D3DResources.cpp
+  TriangleRenderer.cpp
+  Utils.cpp
+  Window.cpp
+  Génération de code en cours...
+  LINK : C:\Users\lucas\Documents\GitHub\DirectXTest\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+  ConsoleApplication1.vcxproj -> C:\Users\lucas\Documents\GitHub\DirectXTest\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+  'pwsh.exe' n'est pas reconnu en tant que commande interne
+  ou externe, un programme exécutable ou un fichier de commandes.
